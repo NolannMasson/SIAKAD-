@@ -1,0 +1,24 @@
+:root {
+  /* Skema Warna: Navy, Putih, Abu-abu */
+  --primary-navy: #0f172a;
+  --primary-navy-hover: #1e293b;
+  --accent-navy: #334155;
+  
+  --bg-color: #f8fafc;
+  --surface-color: #ffffff;
+  
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --border-color: #cbd5e1;
+  --border-focus: #0f172a;
+  --error-color: #ef4444;
+
+  /* Typography */
+  --font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+
+  /* Components & Layout */
+  --border-radius: 10px;
+  --transition: all 0.2s ease;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 10px 25px -5px rgba(15, 23, 42, 0.08);
+}
