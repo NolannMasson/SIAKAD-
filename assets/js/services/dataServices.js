@@ -1,6 +1,4 @@
-/**
- * Modul Layanan Pengelolaan Data (Data Service) SIAKAD
- */
+
 const DataService = {
   KEYS: {
     MAHASISWA: "siakad_data_mahasiswa",
